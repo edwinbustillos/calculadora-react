@@ -3,10 +3,12 @@
 Este projeto é uma calculadora simples criada com React. Ele permite que você realize operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
 ## Screenshots
-![Calculo-1](screenshots/1.png)
-![Calculo-2](screenshots/2.png)
-![Calculo-3](screenshots/3.png)
-![Calculo-4](screenshots/4.png)
+<p float="left">
+    <img src="./screenshots/1.png" width="250" />
+    <img src="./screenshots/2.png" width="250" /> 
+    <img src="./screenshots/3.png" width="250" />
+    <img src="./screenshots/4.png" width="250" /> 
+</p>
 
 ## Feito com
 - NodeJS - v21.5.0
@@ -16,7 +18,7 @@ Este projeto é uma calculadora simples criada com React. Ele permite que você 
 ## Instalação
 Para instalar e rodar este projeto, siga os seguintes passos:
 
-1. Clone o repositório para a sua máquina local usando git clone https://github.com/edwinbustillos/calculadora-react.git.
+1. Clone o repositório para a sua máquina local usando git clone https://github.com/edwinbustillos/web-calculadora-reactjs.git.
 
 2. Navegue até o diretório do projeto usando cd calculadora-react.
 
